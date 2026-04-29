@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/o-barbershop-meung-public/static/css/main.821f7c41.css",
-    "main.js": "/o-barbershop-meung-public/static/js/main.fac8d77b.js",
+    "main.css": "/o-barbershop-meung-public/static/css/main.da68b3e7.css",
+    "main.js": "/o-barbershop-meung-public/static/js/main.973f7c3b.js",
     "static/js/453.336ba5a8.chunk.js": "/o-barbershop-meung-public/static/js/453.336ba5a8.chunk.js",
     "static/media/hydrafacial-bg.webp": "/o-barbershop-meung-public/static/media/hydrafacial-bg.2a132ebcb16c16a18be1.webp",
     "static/media/poster-1.webp": "/o-barbershop-meung-public/static/media/poster-1.2a132ebcb16c16a18be1.webp",
@@ -71,12 +71,12 @@
     "static/media/manrope-cyrillic-ext-500-normal.woff2": "/o-barbershop-meung-public/static/media/manrope-cyrillic-ext-500-normal.c803169a005534ccd3ce.woff2",
     "static/media/manrope-cyrillic-ext-700-normal.woff2": "/o-barbershop-meung-public/static/media/manrope-cyrillic-ext-700-normal.4ee2708831b279ef20f1.woff2",
     "index.html": "/o-barbershop-meung-public/index.html",
-    "main.821f7c41.css.map": "/o-barbershop-meung-public/static/css/main.821f7c41.css.map",
-    "main.fac8d77b.js.map": "/o-barbershop-meung-public/static/js/main.fac8d77b.js.map",
+    "main.da68b3e7.css.map": "/o-barbershop-meung-public/static/css/main.da68b3e7.css.map",
+    "main.973f7c3b.js.map": "/o-barbershop-meung-public/static/js/main.973f7c3b.js.map",
     "453.336ba5a8.chunk.js.map": "/o-barbershop-meung-public/static/js/453.336ba5a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.821f7c41.css",
-    "static/js/main.fac8d77b.js"
+    "static/css/main.da68b3e7.css",
+    "static/js/main.973f7c3b.js"
   ]
 }
